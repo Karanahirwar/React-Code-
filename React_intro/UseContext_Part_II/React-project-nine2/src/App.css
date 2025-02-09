@@ -1,0 +1,19 @@
+#container{
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background: beige;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+   opacity: inherit;
+}
+
+#themebtn{
+  border: 2px solid black;
+  border-radius: 15px;
+  box-sizing: border-box;
+  background:  grey;
+}

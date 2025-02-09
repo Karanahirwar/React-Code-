@@ -1,0 +1,14 @@
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+      background-color: rgb(236, 236, 32);
+    text-transform: capitalize;
+    }
+
+.active-link{
+    padding: auto;
+    border: 1px solid orange;
+    border-radius: 5px;
+}
